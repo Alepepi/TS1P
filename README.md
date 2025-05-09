@@ -55,5 +55,5 @@ Below is a visual representation of the constructors' positions based on the pre
 
 ![Constructors' Positions](./constructors_positions.png)
 
-This diagram provides insights into the predicted rankings of F1 constructors, showcasing the model's ability to analyze and predict outcomes effectively. Ensure the `constructors_positions.png` file is placed in the appropriate directory for the image to render correctly.
+This diagram provides insights into the predicted rankings of F1 constructors, showcasing the model's ability to analyze and predict outcomes effectively.
 
